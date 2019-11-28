@@ -1,0 +1,11 @@
+E:\University\AP\SAA\SAA AP\bin\Debug\SAA AP.exe.config
+E:\University\AP\SAA\SAA AP\bin\Debug\SAA AP.exe
+E:\University\AP\SAA\SAA AP\bin\Debug\SAA AP.pdb
+E:\University\AP\SAA\SAA AP\bin\Debug\SAA AP.xml
+E:\University\AP\SAA\SAA AP\obj\Debug\SAA AP.vbprojAssemblyReference.cache
+E:\University\AP\SAA\SAA AP\obj\Debug\SAA_AP.Form1.resources
+E:\University\AP\SAA\SAA AP\obj\Debug\SAA_AP.Resources.resources
+E:\University\AP\SAA\SAA AP\obj\Debug\SAA AP.vbproj.GenerateResource.cache
+E:\University\AP\SAA\SAA AP\obj\Debug\SAA AP.exe
+E:\University\AP\SAA\SAA AP\obj\Debug\SAA AP.xml
+E:\University\AP\SAA\SAA AP\obj\Debug\SAA AP.pdb
